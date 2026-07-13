@@ -18,3 +18,5 @@ A single guided installer sets it up, it works automatically, and it keeps memor
 
 Attachments
 
+<img width="1920" height="1080" alt="captura 2 eng " src="https://github.com/user-attachments/assets/b655bf3b-4fd0-4a50-ada3-79b1a0a61629" />
+
